@@ -1,0 +1,216 @@
+html {
+  font-size: clamp(0.9rem, calc(0.5rem + 1.6vw), 2.5rem);
+  font-family: "Heebo", sans-serif;
+}
+a.atual {
+  color: #ff6464;
+}
+
+/* === Header === */
+header ul li {
+  text-align: center;
+  padding: 6vw 0 0vw 0;
+}
+
+/* === Banner === */
+
+section.banner {
+  text-align: center;
+  padding: 10vw 2vw 10vw 2vw;
+}
+
+section.banner img {
+  width: 50%;
+}
+
+section.banner h1 {
+  font-size: 2rem;
+}
+
+section.banner p {
+  padding: 1vw 0vw 1vw;
+}
+
+section.banner p a {
+  display: inline-block;
+  background-color: #ff6464;
+  color: aliceblue;
+  padding: 15px 25px 15px 25px;
+}
+
+/* === rc posts === */
+
+section.rc-post {
+  background-color: #cbdddb;
+  padding: 5vw 2vw 5vw 2vw;
+}
+
+section.rc-post h2 {
+  text-align: center;
+}
+
+section.rc-post ul li {
+  background-color: white;
+  margin: 2vw 0vw 2vw 0vw;
+  padding: 15px 10px 15px 10px;
+}
+
+section.rc-post ul li h3 {
+  font-size: 1.3rem;
+}
+
+section.rc-post ul li p {
+  margin: 1vw 0vw 1vw 0vw;
+}
+
+/* === ft works === */
+
+section.ft-works {
+  padding: 2vw 2vw 2vw 2vw;
+}
+
+section.ft-works h3 {
+  text-align: center;
+  margin: 2vw 0 4vw 0vw;
+}
+
+section.ft-works ul li h3 {
+  font-size: 1.3rem;
+  font-weight: bold;
+  color: #21243d;
+}
+
+section.ft-works h3 {
+  text-align: center;
+  margin: 2vw 0 4vw 0vw;
+}
+
+section.ft-works ul li h3 {
+  font-size: 1.3rem;
+  font-weight: bold;
+  color: #21243d;
+}
+
+section.ft-works ul li p.info {
+  color: #8695a4;
+}
+
+section.ft-works ul li p.info span {
+  background-color: #fe0000;
+  color: rgb(186, 4, 4);
+  border-radius: 8px;
+  padding: 5px 20px 5px 20px;
+}
+
+section.ft-works ul li p.info {
+  color: #8695a4;
+}
+
+section.ft-works ul li p.info span {
+  background-color: #142850;
+  color: white;
+  border-radius: 8px;
+  padding: 2px 10px 2px 10px;
+  display: inline-block;
+}
+
+h3 {
+  text-align: center;
+  margin: 2vw 0 4vw 0vw;
+}
+
+section.ft-works ul li h3 {
+  font-size: 1.3rem;
+  font-weight: bold;
+  color: #21243d;
+}
+
+section.ft-works ul li p.info {
+  color: #8695a4;
+}
+
+section.ft-works ul li p span {
+  background-color: #142850;
+  color: rgb(255, 255, 255);
+  border-radius: 8px;
+  padding: 2px 5px 2px 5px;
+}
+
+section.ft-works ul li p.info {
+  color: #8695a4;
+  background-color: white;
+}
+
+section.ft-works ul li p.info span {
+  background-color: #142850;
+  color: white;
+  border-radius: 8px;
+  padding: 2px 10px 2px 10px;
+  display: inline-block;
+  margin: 0px 5px 0px 0px;
+  font-weight: 900;
+}
+
+section.ft-works ul li {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.198);
+  padding: 6vw 0vw 6vw 0vw;
+}
+footer {
+  text-align: center;
+}
+footer nav a {
+  display: inline-block;
+  margin: 180px 10px 10px 10px;
+}
+footer nav a img {
+  width: 8vw;
+}
+
+/* === blog ===*/
+
+main {
+  margin: 3vw;
+}
+
+section.blog h1 {
+  font-size: 2.3rem;
+}
+section.blog ul li h2 {
+  font-size: 1.5rem;
+  font-weight: bold;
+  padding: 3vw 0vw 3vw 0vw;
+}
+section.blog span {
+  background-color: #ff7c7c;
+  color: rgb(255, 255, 255);
+  border-radius: 8px;
+  padding: 2px 5px 2px 5px;
+  margin: 3vw 0vw 3vw 0vw;
+  display: inline-block;
+}
+section.borda ul li h2 {
+  font-size: 1.3rem;
+}
+
+section.borda span {
+  background-color: #ff7c7c;
+  color: rgb(255, 255, 255);
+  border-radius: 8px;
+  padding: 2px 5px 2px 5px;
+  margin: 3vw 0vw 3vw 0vw;
+  display: inline-block;
+}
+section.borda p {
+  padding: 2vw 0vw 2vw 0vw;
+}
+
+footer {
+  text-align: center;
+}
+footer nav a {
+  display: inline-block;
+  margin: 100px 10px 10px 10px;
+}
+footer nav a img {
+  width: 8vw;
+}
