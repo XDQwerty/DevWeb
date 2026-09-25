@@ -20,7 +20,7 @@ Este repositório contém os meus trabalhos práticos, exercícios de aula e pro
 | 🎯 **`atv-bullet`** | Atividade prática sobre listas e estilização. |
 | 💼 **`atv-portfolio`** | Exercício de criação de estrutura para portfólio. |
 | 🎓 **`Best Learning Opportunities`** | Projeto focado em páginas de oportunidades de aprendizagem. |
-| 📱 **`GlideApp`** | Testes e integrações utilizando GlideApp. |
+| 📱 **`GlideApp`** | Testes e integrações. |
 | 🍽️ **`teste-de-prova-restaurante`** | Exercício prático e simulação de site para restaurante. |
 
 ---
